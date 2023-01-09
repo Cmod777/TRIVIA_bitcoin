@@ -40,6 +40,7 @@ Ogni nuova domanda/risposta dovrà essere presentata con questi requisiti:
 * fork per mantenere una copia su cui lavorare in autonomia e successiva richiesta di PR con sync per completare l'aggiornamento dei repo
 * chiedo la cortesia di concentrarsi sulla ricerca delle domande, le opzioni grafiche passano in secondo piano ora.
 * Il progetto viene proposto per l'attività divulgativa "Visual Art" di [Ventuno Italia](https://github.com/ventunobtc) , una volta completato verrà incluso insieme agli altri due giochi bitcoin edition (Citadel e Monopoly)
+* SE TROVATE MIGLIORAMENTI O OPZIONI NON ANCORA AFFRONTATE VI PREGO DI UTILIZZARE LA SEZIONE ISSUE, VORREI CHE QUESTO FOSSE UN PROGETTO COMUNE
 
 ### LICENSE 
 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
