@@ -1,6 +1,8 @@
 # TRIVIA
 unofficial "trivial pursuit" game, based on bitcoin
 
+[![Donate Bitcoin Onchain](https://img.shields.io/badge/donate_BITCOIN_ONCHAIN-BTC-green.svg)](http://cmod777.github.io/donate-bitcoin/?amount=10&currency=USD)  [![Donate Bitcoin LN](https://img.shields.io/badge/donate_BITCOIN_LN-SAT-orange.svg)](https://legend.lnbits.com/lnurlp/61266) [![HOMEPAGE](https://img.shields.io/badge/PLEASE_VISIT_MY-HOMEPAGE-red.svg)](http://cmod777.github.io)
+
 ## Table of Contents
 * [IDEA](https://github.com/Cmod777/TRIVIA_bitcoin#idea)
 * [OBBIETTIVI](https://github.com/Cmod777/TRIVIA_bitcoin#obbiettivi)
