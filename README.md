@@ -2,11 +2,11 @@
 unofficial "trivial pursuit" game, based on bitcoin
 
 ## Table of Contents
-* [IDEA](-)
-* [OBBIETTIVI](-)
-* [SVILUPPO](-)
-* [COME CONTRIBUIRE](-)
-* [LICENSE](-)
+* [IDEA](https://github.com/Cmod777/TRIVIA_bitcoin#idea)
+* [OBBIETTIVI](https://github.com/Cmod777/TRIVIA_bitcoin#obbiettivi)
+* [SVILUPPO](https://github.com/Cmod777/TRIVIA_bitcoin#sviluppo)
+* [COME CONTRIBUIRE](https://github.com/Cmod777/TRIVIA_bitcoin#come-contribuire)
+* [LICENSE](https://github.com/Cmod777/TRIVIA_bitcoin#license)
 * [autore](https://github.com/Cmod777/Cmod777.github.io)
 
 ### IDEA
