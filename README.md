@@ -1,5 +1,5 @@
 # TRIVIA
-unofficial "trivial pursuit" game, based on bitcoin
+unofficial "trivial pursuit" game, based on bitcoin - SVILUPPO DELL'IDEA
 
 [![Donate Bitcoin Onchain](https://img.shields.io/badge/donate_BITCOIN_ONCHAIN-BTC-green.svg)](http://cmod777.github.io/donate-bitcoin/?amount=10&currency=USD)  [![Donate Bitcoin LN](https://img.shields.io/badge/donate_BITCOIN_LN-SAT-orange.svg)](https://legend.lnbits.com/lnurlp/61266) [![HOMEPAGE](https://img.shields.io/badge/PLEASE_VISIT_MY-HOMEPAGE-red.svg)](http://cmod777.github.io)
 
@@ -25,17 +25,17 @@ Lasciamo spazio alla curiosità successivamente, permettiamo di approfondire in 
 ### SVILUPPO
 Lo sviluppo del progetto sarà effettuato in questo modo
 1. idea di base
-2. individuare le aree da affrontare
-3. decidere le domande/risposte da utilizzare
-4. procedere con le grafiche (me ne occuperò io)
-5. sviluppare un prototipo per eventuale edizione fisica (se necessario, si affronterà per ultimo)
+2. individuare le aree da affrontare (sezione issue, mancano 2 aree) - go!
+3. decidere le domande/risposte da utilizzare (navigare nel menu, sezione QA, individuare l'area interessata) - go!
+4. procedere con le grafiche (me ne occuperò io, in un secondo momento) - standby!
+5. sviluppare un prototipo per eventuale edizione fisica v1 (se necessario, si affronterà per ultimo) - standby!
 
 ### COME CONTRIBUIRE
 Nella sezione Issue sono individuate le macro aree di competenza (commenti per suggerimenti)
 Ogni nuova domanda/risposta dovrà essere presentata con questi requisiti:
 * difficoltà facile/media (verranno escluse domande troppo difficili, non utili per l'obbiettivo del gioco)
-* definizione della categoria
-* domanda preferibilmente breve e risposta sintetica
+* definizione della categoria (issue per le categorie già decise o da aggiungere, QA per la stesura delle domande)
+* domanda preferibilmente breve e risposta sintetica (numerata e nella sezione corretta)
 * ogni domanda/risposta dovrà essere numerata seguendo una numerazione crescente (in modo da individuare con precisione il numero di domande/risposte e facilitare le correzioni)
 * fork per mantenere una copia su cui lavorare in autonomia e successiva richiesta di PR con sync per completare l'aggiornamento dei repo
 * chiedo la cortesia di concentrarsi sulla ricerca delle domande, le opzioni grafiche passano in secondo piano ora.
